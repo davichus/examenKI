@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "S0GUuLP4Hg6Yq+g/eh3QwXuHN0aM+dmp6mwOC+Xufb7oanze9grpd4UXd+OpA5YuyPEnhm5bUufxAV+uZmzTTg==",
+  "success": true,
+  "projectFilePath": "/Users/davidnavarrete/Projects/kIzaExamen1/kIzaExamen1.iOS/kIzaExamen1.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/davidnavarrete/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/davidnavarrete/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/davidnavarrete/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
